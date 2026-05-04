@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Anson2251/anson2251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i reinvent wheels. 
+because most of them are square.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my repos fall into four categories:
+
+1. rust binaries that do one thing and vanish
+2. typescript experiments that probably should've been bash
+3. python scripts that will never see production (by design)
+4. vue nonsense because i hate react
+
+some are unfinished. some are over-engineered. 
+all of them started because something annoyed me.
