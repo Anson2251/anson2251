@@ -14,3 +14,7 @@ my repos fall into four categories:
 
 some are unfinished. some are over-engineered. <br/>
 all of them started because something annoyed me.
+
+---
+
+currently a computer engineering student at the university of waterloo
