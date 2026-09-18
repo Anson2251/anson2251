@@ -11,6 +11,7 @@ my repos fall into four categories:
 2. typescript experiments that probably should've been bash
 3. python scripts that will never see production (by design)
 4. vue nonsense because i hate react
+5. ai/deep learning experiments that started with “what if”
 
 some are unfinished. some are over-engineered. <br/>
 all of them started because something annoyed me.
