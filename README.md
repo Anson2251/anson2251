@@ -18,4 +18,4 @@ all of them started because something annoyed me.
 
 ---
 
-currently debugging my computer engineering degree @ Waterloo, unfortunately
+currently debugging my computer engineering degree @ UWaterloo, unfortunately
